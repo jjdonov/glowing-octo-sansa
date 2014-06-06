@@ -1,0 +1,6 @@
+# Ignore hidden files and dot directories
+.*
+!/.gitignore
+
+# Ignore target directories
+/*/target
